@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|d:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralai\\c#\\project\\wheatherapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|d:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralai\\c#\\project\\wheatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|d:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralai\\c#\\project\\wheatherapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|d:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralai\\c#\\project\\wheatherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|d:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralai\\c#\\project\\wheatherapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32AABCA-3DE6-4740-A003-A0EB4DDE3E5E}|wheatherAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:22:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T16:21:19.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T16:20:53.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:14:24.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\mygithubrepo\\ai-srp\\semantic-kernel\\example\\mistralAI\\C#\\Project\\wheatherAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:14:13.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

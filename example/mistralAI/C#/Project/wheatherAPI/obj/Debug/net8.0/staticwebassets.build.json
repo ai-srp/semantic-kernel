@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T/4IWbvdA+90mROY1hGddmYX7eLdTGo9hLRIhj5jn1Q=",
+  "Source": "wheatherAPI",
+  "BasePath": "_content/wheatherAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
